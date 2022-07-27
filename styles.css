@@ -85,9 +85,8 @@ h2 {
 
 .form {
     display: flex;
-    width: 960px;
+    width: 965px;
     height: 30px;
-    background-color: aliceblue;
     justify-content: space-evenly;
     align-items: center;
     background-color: #0D79B0;
